@@ -41,7 +41,7 @@ class calculo {
 		float valor5 = 0;
 		System.out.println(F * qtKg5 == valor5 );
 		
-		System.out.println(valor1+valor2+valor3+valor4+valor5);
+		//System.out.println(valor1+valor2+valor3+valor4+valor5);
 		
 		sc.close();
 	}
