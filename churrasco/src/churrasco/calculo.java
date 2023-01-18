@@ -36,7 +36,7 @@ class calculo {
 		double qtKg4 = sc.nextDouble();
 		System.out.println(L * qtKg4);
 		valor4 = L * qtKg4;
-
+gh
 		double F;
 		F = 32.99;
 		System.out.println("quantos kg foram comprado de Fraldinha ");
